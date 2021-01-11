@@ -1,0 +1,1 @@
+b.txt-수정 되었음 by user1 b.txt 기능을 수정 by user2
