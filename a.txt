@@ -1,2 +1,2 @@
-a.txt 내용을 브랜치 합병 시험을 위해서 변경 by user1 다시 브랜치 합병을 위해서 변경 by user1
-Master 브랜치에서 새로운 기능 추가
+a.txt 내용을 브랜치 합병 시험을 위해서 변경 by user1 다시 브랜치 합병을 위해서 변경 by user1a.txt 내용을 브랜치 합병 시험을 위해서 변경 by user1 다시 브랜치 합병을 위해서 변경 by user1
+Master의 최근 커밋 기능을 지우고 a.txt에 기능추가
